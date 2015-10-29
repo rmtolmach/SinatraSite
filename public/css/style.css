@@ -1,0 +1,94 @@
+section{
+  width: 960px;
+  margin: auto;
+}
+/* below are styles for header */
+body {
+  background-color: #edcb32;
+  margin: 0;
+}
+
+.head-foot {
+  background-color: #ef4229;
+  padding: 5px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace, sans-serif;
+}
+
+#navigation li {
+  display: inline;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.3em;
+  font-family: helvetica, sans-serif;
+}
+
+a:hover {
+  color: #edcb32;
+}
+
+/* below are styles for main body */
+#welcome {
+  text-align: center;
+  font-family: helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 4em;
+  font-family: helvetica, sans-serif;
+}
+
+.kitchen {
+  display: block;
+  margin: auto;
+}
+
+.tag-line {
+  font-size: 1.2em;
+  font-family: helvetica, sans-serif;
+  width: 750px;
+  margin: 30px auto;
+}
+
+.project-nav:hover {
+  color: #ef4229;
+}
+
+/* below are styles for main body of projects */
+.ingredients {
+  width: 450px;
+  margin: 40px;
+}
+
+.recipe {
+  font-family: helvetica, sans-serif;
+
+}
+.margarita {
+  padding-top: 30px;
+}
+
+.food-pics {
+  padding: 30px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+/* below are styles for footer */
+.social {
+  font-size: 1em;
+}
