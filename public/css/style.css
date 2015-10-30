@@ -71,6 +71,7 @@ h1 {
 
 .recipe {
   font-family: helvetica, sans-serif;
+  margin-bottom: 20px;
 
 }
 .margarita {
@@ -88,7 +89,50 @@ hr {
   background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
+/* below are styles for main body of about */
+.chris-rock {
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  font-family: helvetica, sans-serif;
+}
+
+.guns {
+  font-family: helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    font-size: 1.4em;
+    font-family: helvetica, sans-serif;
+
+}
+
+td {
+  padding: 7px;
+}
+
+/* below are styles for main body of blog */
+.blog-post {
+  font-family: helvetica, sans-serif;
+  font-size: 1.1em;
+  line-height: 1.4em;
+}
+
 /* below are styles for footer */
-.social {
+.social-link {
   font-size: 1em;
+}
+
+.social-footer {
+  font-family: helvetica, sans-serif;
+  font-size: 1.1em;
 }
