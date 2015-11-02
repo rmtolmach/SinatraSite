@@ -50,7 +50,8 @@ h1 {
 .kitchen {
   display: block;
   margin: auto;
-  outline: black solid thick;
+  border-top-left-radius: 155px;
+  border-bottom-right-radius: 155px;
 }
 
 .tag-line {
